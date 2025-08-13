@@ -32,6 +32,4 @@ LinkedIn: [shraddha-aher21](https://www.linkedin.com/in/shraddha-aher21)
 
 ---
 
-### 📈 GitHub Stats
-![Shraddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shraddha-aher21&show_icons=true&theme=radical)
 
